@@ -13,4 +13,4 @@ food2 = Favorite_food("adobo" , "baboy" , "soy sauce" ,"vinegar")
 food3 = Favorite_food("pancake", "flour" , "egg" , "baking powder")
 
 for i in [food1,food2,food3]:
-    print(
+    print(i)
